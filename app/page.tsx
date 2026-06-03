@@ -13,7 +13,7 @@ export default function Home() {
           ✨ Web Developer Portfolio
         </div>
         <h1 className="text-4xl md:text-6xl font-extrabold text-white tracking-tight">
-          Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Kang Chimyong</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Kang Chimyong</span>
         </h1>
         <p className="mt-4 text-xl md:text-2xl text-slate-400 font-medium">
           Full-Stack Web Developer / Engineer
